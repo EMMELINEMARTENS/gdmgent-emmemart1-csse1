@@ -1,0 +1,3 @@
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/obj/Debug/netcoreapp3.0/gdmgent-emmemart1-csse1.csprojAssemblyReference.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/obj/Debug/netcoreapp3.0/gdmgent-emmemart1-csse1.AssemblyInfoInputs.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/obj/Debug/netcoreapp3.0/gdmgent-emmemart1-csse1.AssemblyInfo.cs
