@@ -1,0 +1,11 @@
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les3/oefening5/obj/Debug/netcoreapp3.0/oefening5.csprojAssemblyReference.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les3/oefening5/obj/Debug/netcoreapp3.0/oefening5.AssemblyInfoInputs.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les3/oefening5/obj/Debug/netcoreapp3.0/oefening5.AssemblyInfo.cs
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les3/oefening5/bin/Debug/netcoreapp3.0/oefening5
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les3/oefening5/bin/Debug/netcoreapp3.0/oefening5.deps.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les3/oefening5/bin/Debug/netcoreapp3.0/oefening5.runtimeconfig.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les3/oefening5/bin/Debug/netcoreapp3.0/oefening5.runtimeconfig.dev.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les3/oefening5/bin/Debug/netcoreapp3.0/oefening5.dll
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les3/oefening5/bin/Debug/netcoreapp3.0/oefening5.pdb
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les3/oefening5/obj/Debug/netcoreapp3.0/oefening5.dll
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les3/oefening5/obj/Debug/netcoreapp3.0/oefening5.pdb
