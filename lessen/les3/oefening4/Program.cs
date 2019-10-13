@@ -11,7 +11,6 @@ namespace oefening4
             /* factorial : n! 
             n! = n * (n-1) * (n-2) * (n-3) * ...
             bv. 5! =  5 * 4 * 3 * 2 * 1 ( vanaf 1 bereikt returnen) -> long is de beste keuze
-
             1 argument 
              */
         
