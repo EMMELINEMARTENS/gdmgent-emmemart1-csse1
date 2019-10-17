@@ -1,0 +1,11 @@
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les4/bin/Debug/netcoreapp3.0/les4
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les4/bin/Debug/netcoreapp3.0/les4.deps.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les4/bin/Debug/netcoreapp3.0/les4.runtimeconfig.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les4/bin/Debug/netcoreapp3.0/les4.runtimeconfig.dev.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les4/bin/Debug/netcoreapp3.0/les4.dll
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les4/bin/Debug/netcoreapp3.0/les4.pdb
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les4/obj/Debug/netcoreapp3.0/les4.csprojAssemblyReference.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les4/obj/Debug/netcoreapp3.0/les4.AssemblyInfoInputs.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les4/obj/Debug/netcoreapp3.0/les4.AssemblyInfo.cs
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les4/obj/Debug/netcoreapp3.0/les4.dll
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les4/obj/Debug/netcoreapp3.0/les4.pdb
