@@ -1,0 +1,11 @@
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les5/oefening2_lotto/obj/Debug/netcoreapp3.0/oefening2_lotto.csprojAssemblyReference.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les5/oefening2_lotto/obj/Debug/netcoreapp3.0/oefening2_lotto.AssemblyInfoInputs.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les5/oefening2_lotto/obj/Debug/netcoreapp3.0/oefening2_lotto.AssemblyInfo.cs
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les5/oefening2_lotto/bin/Debug/netcoreapp3.0/oefening2_lotto
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les5/oefening2_lotto/bin/Debug/netcoreapp3.0/oefening2_lotto.deps.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les5/oefening2_lotto/bin/Debug/netcoreapp3.0/oefening2_lotto.runtimeconfig.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les5/oefening2_lotto/bin/Debug/netcoreapp3.0/oefening2_lotto.runtimeconfig.dev.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les5/oefening2_lotto/bin/Debug/netcoreapp3.0/oefening2_lotto.dll
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les5/oefening2_lotto/bin/Debug/netcoreapp3.0/oefening2_lotto.pdb
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les5/oefening2_lotto/obj/Debug/netcoreapp3.0/oefening2_lotto.dll
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les5/oefening2_lotto/obj/Debug/netcoreapp3.0/oefening2_lotto.pdb

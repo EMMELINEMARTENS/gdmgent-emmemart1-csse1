@@ -1,0 +1,11 @@
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht4/bin/Debug/netcoreapp3.0/opdracht4
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht4/bin/Debug/netcoreapp3.0/opdracht4.deps.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht4/bin/Debug/netcoreapp3.0/opdracht4.runtimeconfig.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht4/bin/Debug/netcoreapp3.0/opdracht4.runtimeconfig.dev.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht4/bin/Debug/netcoreapp3.0/opdracht4.dll
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht4/bin/Debug/netcoreapp3.0/opdracht4.pdb
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht4/obj/Debug/netcoreapp3.0/opdracht4.csprojAssemblyReference.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht4/obj/Debug/netcoreapp3.0/opdracht4.AssemblyInfoInputs.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht4/obj/Debug/netcoreapp3.0/opdracht4.AssemblyInfo.cs
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht4/obj/Debug/netcoreapp3.0/opdracht4.dll
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht4/obj/Debug/netcoreapp3.0/opdracht4.pdb
