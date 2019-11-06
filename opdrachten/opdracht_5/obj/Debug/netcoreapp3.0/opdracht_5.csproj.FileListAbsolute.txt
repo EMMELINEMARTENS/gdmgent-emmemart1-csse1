@@ -1,0 +1,11 @@
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht_5/obj/Debug/netcoreapp3.0/opdracht_5.csprojAssemblyReference.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht_5/obj/Debug/netcoreapp3.0/opdracht_5.AssemblyInfoInputs.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht_5/obj/Debug/netcoreapp3.0/opdracht_5.AssemblyInfo.cs
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht_5/bin/Debug/netcoreapp3.0/opdracht_5
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht_5/bin/Debug/netcoreapp3.0/opdracht_5.deps.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht_5/bin/Debug/netcoreapp3.0/opdracht_5.runtimeconfig.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht_5/bin/Debug/netcoreapp3.0/opdracht_5.runtimeconfig.dev.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht_5/bin/Debug/netcoreapp3.0/opdracht_5.dll
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht_5/bin/Debug/netcoreapp3.0/opdracht_5.pdb
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht_5/obj/Debug/netcoreapp3.0/opdracht_5.dll
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/opdrachten/opdracht_5/obj/Debug/netcoreapp3.0/opdracht_5.pdb
