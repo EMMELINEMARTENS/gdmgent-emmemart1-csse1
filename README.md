@@ -6,6 +6,7 @@ Repo CSSE1
 - Les 3
 - Les 4
 - Les 5
+- les 6
 
 - Opdrachten
 - opdracht 3
