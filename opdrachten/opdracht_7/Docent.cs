@@ -8,7 +8,7 @@ namespace opdracht_7
         public Docent (string firstname, string name, char gender) : base(firstname, name, gender){
             // Genereer Wachtwoord
             this.password = Generatepassword();
-            this.username = Generateusername();
+            this.username = GenerateUsername();
             this.login = GenerateLogin();
         }
 
@@ -18,7 +18,7 @@ namespace opdracht_7
             return Password;
         }
 
-        private string Generateusername()
+        public  string GenerateUsername()
         {
         
         // empty string needed
@@ -35,7 +35,7 @@ namespace opdracht_7
         public  override string GenerateLogin()
         {
             string Account = " ";
-            Account = Generateusername();
+            Account = GenerateUsername();
             return Account += "@arteveldehs.be";
         }
 		
