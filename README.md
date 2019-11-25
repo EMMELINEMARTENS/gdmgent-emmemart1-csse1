@@ -7,8 +7,12 @@ Repo CSSE1
 - Les 4
 - Les 5
 - les 6
+- les 7
+- les 8
 
 - Opdrachten
 - opdracht 3
 - opdracht 4
 - opdracht 5
+- opdracht 6
+- opdracht 7
