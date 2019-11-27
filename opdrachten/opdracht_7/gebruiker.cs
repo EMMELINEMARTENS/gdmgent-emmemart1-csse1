@@ -56,8 +56,13 @@ public class User : Person1 {
         // Methoden
         private string Generatepassword()
         {
-            Console.WriteLine(Password);
-            return Password;
+            string output = "";
+            for (int i = 0; i < 10; i++)
+            {
+                Random number = new Random();
+                output += (char)number.Next(40, 122);
+            }
+            return output;
         }
 
         private string GenerateUsername()
