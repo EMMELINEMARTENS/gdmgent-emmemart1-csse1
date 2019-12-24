@@ -9,6 +9,8 @@ Repo CSSE1
 - les 6
 - les 7
 - les 8
+- les 10
+- les 11
 
 - Opdrachten
 - opdracht 3
@@ -16,3 +18,4 @@ Repo CSSE1
 - opdracht 5
 - opdracht 6
 - opdracht 7
+- opdracht 8
