@@ -1,0 +1,11 @@
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les_8/oefening_1/bin/Debug/netcoreapp3.0/oefening_1
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les_8/oefening_1/bin/Debug/netcoreapp3.0/oefening_1.deps.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les_8/oefening_1/bin/Debug/netcoreapp3.0/oefening_1.runtimeconfig.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les_8/oefening_1/bin/Debug/netcoreapp3.0/oefening_1.runtimeconfig.dev.json
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les_8/oefening_1/bin/Debug/netcoreapp3.0/oefening_1.dll
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les_8/oefening_1/bin/Debug/netcoreapp3.0/oefening_1.pdb
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les_8/oefening_1/obj/Debug/netcoreapp3.0/oefening_1.csprojAssemblyReference.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les_8/oefening_1/obj/Debug/netcoreapp3.0/oefening_1.AssemblyInfoInputs.cache
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les_8/oefening_1/obj/Debug/netcoreapp3.0/oefening_1.AssemblyInfo.cs
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les_8/oefening_1/obj/Debug/netcoreapp3.0/oefening_1.dll
+/Users/emmelinemartens/Repos/gdmgent-emmemart1-csse1/lessen/les_8/oefening_1/obj/Debug/netcoreapp3.0/oefening_1.pdb
