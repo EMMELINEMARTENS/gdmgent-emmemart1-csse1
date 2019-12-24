@@ -37,8 +37,9 @@ namespace opdracht8
             // Remember, the Builder pattern can be used without a Director
             // class.
             Console.WriteLine("Custom product:");
-            builder.BuildPartA();
-            builder.BuildPartC();
+            builder.Frontpage();
+            builder.Artciles();
+            builder.Date();
             Console.Write(builder.GetPaper().ListParts());
         }
     }
